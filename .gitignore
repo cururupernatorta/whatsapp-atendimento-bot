@@ -1,0 +1,16 @@
+node_modules/
+.env
+atlas-credentials.env
+accs.txt
+API.txt
+Instancias.txt
+clustes.txt
+*.log
+dist/
+build/
+
+# Dados reais de clientes e documentos de negócio (só locais)
+bot-saas-v3-claude/scripts/seed.local.js
+BOT-MASTER-v3-CLAUDE.md
+PASSO_A_PASSO_COMPLETO.pdf
+docs/
